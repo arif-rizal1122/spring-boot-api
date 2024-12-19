@@ -5,3 +5,19 @@
  - User Management
  - Contact Management
  - Address Management
+
+# User Management Requirement
+
+¥ User Data
+- Username
+- Password
+- Name
+
+¥ User Api
+- Register User
+- Login User
+- Update User
+- Get User
+- Logout User
+
+
