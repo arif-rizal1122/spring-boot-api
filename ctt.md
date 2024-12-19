@@ -20,4 +20,19 @@
 - Get User
 - Logout User
 
+# Contact Management Requirement
+
+¥ Contact Data
+- First Name
+- Last Name
+- Email
+- Phone
+
+
+¥ Contact API
+- Create Contact
+- Update Contact
+- Get Contact
+- Search Contact
+- Remove Contact
 
