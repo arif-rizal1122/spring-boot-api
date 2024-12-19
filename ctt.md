@@ -36,3 +36,18 @@
 - Search Contact
 - Remove Contact
 
+# Address Management Requirement
+
+¥ Contact Address Data
+- Street
+- City
+- Province
+- Country
+- Postal Code
+
+¥ Address API
+Create Address
+Update Address
+Get Address
+List Address
+Remove Address
